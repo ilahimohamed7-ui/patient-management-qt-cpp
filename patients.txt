@@ -1,0 +1,10 @@
+;Becker;Jonas;Lindenweg 7;50674 Köln;017633344455;Männlich;17.03.2001
+;Fischer;Emily;Ringstraße 21;50676 Köln;017655566677;Weiblich;04.01.1997
+Prof.;Hoffmann;Laura;Schulstraße 9;50680 Köln;017612398765;Weiblich;06.04.1981
+;Ilahi;Mohamed;Joseph-Rovan-Allee 2;53424 Remagen;01234953221;Männlich;14.10.2003
+;Klein;David;Bergweg 11;50682 Köln;017600112233;Männlich;03.01.2002
+Prof.;Mustermann;Max;Musterweg 10;50670 Köln;017699999999;Männlich;04.04.1974
+Dr.;Müller;Anna;Hauptstraße 5;50667 Köln;017612345678;Weiblich;03.05.2000
+;Schmidt;Leon;Bahnhofstraße 2;50668 Köln;017600000000;Männlich;13.09.2005
+;Wagner;Paul;Parkallee 3;50678 Köln;017677788899;Männlich;08.07.1999
+Dr.;Weber;Sophie;Gartenstraße 14;50672 Köln;017611223344;Weiblich;06.03.1999
